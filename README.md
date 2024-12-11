@@ -1,0 +1,3 @@
+# Uncommon HTML Bug: Element Disappears and Cannot Be Re-displayed
+
+This repository demonstrates an uncommon bug in HTML where a div element disappears after using JavaScript's `style.display = "none"` and cannot be made visible again using standard methods. The bug is quite subtle and can be tricky to diagnose.  The solution highlights the important missing step needed for proper element visibility management.
